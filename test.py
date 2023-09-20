@@ -25,7 +25,7 @@ def send_image(botToken, imageFile, chat_id):
 
 args = init_parameter()
 
-model = YOLO('/home/paperspace/ultralytics/runs/detect/train8/weights/best.pt')
+model = YOLO('FireNet.pt')
 videos = sorted(glob.glob(os.path.join(args.videos, '*')), key=os.path.getsize)
 result_dir = args.results
 botToken = "" # YOUR TOKEN
