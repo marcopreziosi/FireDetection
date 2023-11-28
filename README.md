@@ -7,9 +7,13 @@ This repository contains the code used for the work presented in the paper accep
 ## Paper Information
 
 **Title:** Fire Detection and Notification System in Real-Time Using a Lightweight YOLOv8-Based Detector 
+
 **Conference:** 2023 8th International Conference on Communication, Image and Signal Processing (CCISP 2023)  
+
 **Authors:** Marco Preziosi
+
 **Presentation Date:** 18/11/2023
+
 **Award:** Best Oral Presentation Award Technical Session III(B)
 
 ## Running Instructions
